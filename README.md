@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ItzBunniYT/ItzBunniYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 #   Hello 👋, My name is Emily or you can call me Bunni or Em. I am malware analyst and cyber security expert. I am currently taking classes into becoming a Certified Network Security Specialist. I am also a developer and have knowledge of Java, Ruby, Pearl, Python, JavaScript. I am learning how to reverse engineer malware and other programs to prevent future malware outbreaks such as the WannaCry Eternal Blue Exploit.
 #  
