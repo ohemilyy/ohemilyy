@@ -14,7 +14,7 @@
         [Solex Games](https://github.com/SolexGames) {Owned by GrowlyX} - System Admin [Resigned Planning on reinstating]
         
  # About me:
-#        I am just a weird cyber security person who is transgender and obsessed with malware & ethical hacking & IT & system administration. I am currently 20 years old as I am writing this. I work on pentration testing and malware analyst and threat intel. I am the Leader of TerrorPvPs DevOPs and ExploitDev.  
+        I am just a weird cyber security person who is transgender and obsessed with malware & ethical hacking & IT & system administration. I am currently 20 years old as I am writing this. I work on pentration testing and malware analyst and threat intel. I am the Leader of TerrorPvPs DevOPs and ExploitDev.  
         
         
         
