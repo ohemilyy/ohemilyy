@@ -12,6 +12,8 @@
 - [TerrorPvP](https://github.com/PhantomHQ-Development) - Currently owning
 - [Sentinel](https://github.com/TeamSentinel) - Abandonded 
 - [Solex Games](https://github.com/SolexGames) {Owned by @GrowlyX} - System Admin & Manager
+- Zonix
+- PvPTemple
         
 About me:
         I am just a weird cyber security person who is transgender and obsessed with malware & ethical hacking & IT & system administration. I am currently 20 years old as I am writing this. I work on pentration testing and malware analyst and threat intel. I am the Leader of TerrorPvPs DevOPs and ExploitDev.  
@@ -24,7 +26,7 @@ About me:
 - 👯 I’m looking to collaborate on anything in the cyber sec field
 - 💬 Ask me about anything :/
 - 📫 How to reach me: 
-     Discord: bunni1337
+     Discord: ItzBunni#3636
      Telegram: @ItzBunniYT
      Email: emily@phantomhq.club
 - 😄 Pronouns: She/Her/They/Them
