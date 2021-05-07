@@ -25,10 +25,6 @@ About me:
 - 🌱 I’m currently learning Java and Pearl and Ruby and C++ and studying cyber security and learning how malware and other malicious stuff works
 - 👯 I’m looking to collaborate on anything in the cyber sec field
 - 💬 Ask me about anything :/
-- 📫 How to reach me: 
-     Discord: ItzBunni#3636
-     Telegram: @ItzBunniYT
-     Email: emily@phantomhq.club
 - 😄 Pronouns: She/Her/They/Them
 - ⚡ Fun fact: I am learning alot about Threat Intel.
 
