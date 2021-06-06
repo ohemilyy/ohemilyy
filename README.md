@@ -9,11 +9,8 @@
 - [Misq-Development](https://github.com/Misq-Development) {Founded by Quartz and Owned by Me} - Resigned due to Dev Team Shut Down, Still managed by DevQuartz
 - [Artemis](https://github.com/Artemis-Development) {Owned by Dannnington & ignJosh} - Resigned due to personal reasons.
 - [PhantomHQ](https://github.com/PhantomHQ-Development) - Currently owning
-- [TerrorPvP](https://github.com/PhantomHQ-Development) - Currently owning
 - [Sentinel](https://github.com/TeamSentinel) - Abandonded 
-- [Solex Games](https://github.com/SolexGames) {Owned by @GrowlyX} - System Admin & Manager
-- Zonix - Resigned
-- PvPTemple - Resigned
+- [Solex Games](https://github.com/SolexGames) {Owned by @GrowlyX} - Resigned
         
 About me:
         I am just a weird cyber security person who is transgender and obsessed with malware & ethical hacking & IT & system administration. I am currently 20 years old as I am writing this. I work on pentration testing and malware analyst and threat intel. I am the Leader of TerrorPvPs DevOPs and ExploitDev.  
