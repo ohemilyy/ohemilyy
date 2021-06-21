@@ -3,12 +3,10 @@
 
    Hello 👋, My name is Emily or you can call me Bunni or Em. I am malware analyst and cyber security expert. I am currently taking classes into becoming a Certified Network Security Specialist. I am also a developer and have knowledge of Java, Ruby, Pearl, Python, JavaScript. I am learning how to reverse engineer malware and other programs to prevent future malware outbreaks such as the WannaCry Eternal Blue Exploit.
   
-   I am the CEO of [PhantomHQ Development](https://github.com/PhantomHQ-Development). We manage other minecraft servers and help with SystemAdministration, Security, Development, Content Protection, Legal Help.
   
 ####       My Experiences:
 - [Misq-Development](https://github.com/Misq-Development) {Founded by Quartz and Owned by Me} - Resigned due to Dev Team Shut Down, Still managed by DevQuartz
 - [Artemis](https://github.com/Artemis-Development) {Owned by Dannnington & ignJosh} - Resigned due to personal reasons.
-- [PhantomHQ](https://github.com/PhantomHQ-Development) - Currently owning
 - [Sentinel](https://github.com/TeamSentinel) - Abandonded 
 - [Solex Games](https://github.com/SolexGames) {Owned by @GrowlyX} - Resigned
         
