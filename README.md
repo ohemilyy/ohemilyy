@@ -17,7 +17,7 @@ About me:
         
         
 #        Info thingy:
-- 🔭 I’m currently working on PhantomHQ 
+- 🔭 I’m currently working on Phantom Services
 - 🌱 I’m currently learning Java and Pearl and Ruby and C++ and studying cyber security and learning how malware and other malicious stuff works
 - 👯 I’m looking to collaborate on anything in the cyber sec field
 - 💬 Ask me about anything :/
