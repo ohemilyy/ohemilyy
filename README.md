@@ -5,7 +5,7 @@
 # BIO
 CEO at [DeltaSec](https://github.com/DeltaDevOp), Manager at [SolexGames](https://github.com/SolexGames/)
 
-🔒 Cyber Security,  ☁️ Networking Administration, 🪐 Astronomy, 🌠 Cosmologoy, 💻 FullStack Developer, 🖥️ Cyber Threat Intelligence  
+<p align="center">🔒 Cyber Security,  ☁️ Networking Administration, 🪐 Astronomy, 🌠 Cosmologoy, 💻 FullStack Developer, 🖥️ Cyber Threat Intelligence  </p>
   
 ![](https://komarev.com/ghpvc/?username=itzbunniyt&color=blueviolet)
 
