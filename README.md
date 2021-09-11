@@ -12,6 +12,17 @@
 
 <p align="center">Contact me on Discord: <b>Aura❤#2832</b></p>
 
-<p align="center">Experience</p>
+<p><strong>Experience:</strong></p>
 
+<ul>
+  <li>Manager @ <a href="https://github.com/SolexGames">SolexGames</a></li>
+  <li>Developer and a founder @ <a href="https://github.com/Misq-Development">Misq Development</a></li>
+  <li>Ex-Developer & Sys Admin for <a href="https://github.com/Artenis-Development">Artemis Development</a></li>
+</ul>
 
+<p><strong>Starred Projects</strong><p>
+<ul>
+  <li>My <a href="https://github.com/ItzBunniYT/website">website</a></li>
+  <li>My Discord Bot "<a href="https://github.com/ItzBunniYT/Cesium">Cesium</a>"</li>
+  <li>Some <a href="https://github.com/ItzBunniYT/GoodIPTables">Good IPtables</a> that I commonly use</li>
+</ul>
