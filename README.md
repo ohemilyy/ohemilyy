@@ -5,9 +5,9 @@
 # BIO
 CEO at [DeltaSec](https://github.com/DeltaDevOp), Manager at [SolexGames](https://github.com/SolexGames/)
 
-<p align="center">🔒 Cyber Security,  ☁️ Networking Administration, 🪐 Astronomy, 🌠 Cosmologoy, 💻 FullStack Developer, 🖥️ Cyber Threat Intelligence  </p>
+<p align="center">🔒 Cyber Security,  ☁️ Networking Administration, 🪐 Astronomy, 🌠 Cosmologoy, 🖥️ Cyber Threat Intelligence  </p>
   
-![](https://komarev.com/ghpvc/?username=itzbunniyt&color=blueviolet)
+<p align="center">![](https://komarev.com/ghpvc/?username=itzbunniyt&color=blueviolet)</p>
 
 <p align="center">Contact me on Discord: <b>Aura❤#2832</b></p>
 
