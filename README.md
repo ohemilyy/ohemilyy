@@ -1,6 +1,6 @@
 ![](https://hit.yhype.me/github/profile?user_id=55363475)
-<img align='left' src='https://raw.githubusercontent.com/ItzBunniYT/ItzBunniYT/master/assets/gifs/bunni1.gif' width='20%'>  
-<img align='right' src='https://raw.githubusercontent.com/ItzBunniYTgit com/ItzBunniYT/master/assets/gifs/bunni2.gif' width='20%'>  
+<img align='left' src='https://raw.githubusercontent.com/ItzBunniYT/ItzBunniYT/main/assets/gifs/bunni1.gif' width='20%'>  
+<img align='right' src='https://raw.githubusercontent.com/ItzBunniYT/ItzBunniYT/main/assets/gifs/bunni2.gif' width='20%'>  
 
 # BIO
 CEO at [DeltaSec](https://github.com/DeltaDevOp), Manager at [SolexGames](https://github.com/SolexGames/)
@@ -11,5 +11,3 @@ CEO at [DeltaSec](https://github.com/DeltaDevOp), Manager at [SolexGames](https:
 
 <p align="center">Contact me on Discord: <b>Aura❤#2832</b></p>
 
-<h2 align="center">Organizations and Experience</h2>
-<p align="center">Organizations I participate in and some of my previous experience.</p>
