@@ -4,7 +4,7 @@
 <img align='right' src='https://raw.githubusercontent.com/ItzBunniYT/ItzBunniYT/main/assets/gifs/bunni1.gif' width='20%'>  
 
 # BIO
-<p align="center">CEO at [DeltaSec](https://github.com/DeltaDevOp), Manager at [SolexGames](https://github.com/SolexGames/)</p>
+<p align="center">CEO at <a href="https://github.com/DeltaDevOp">DeltaSec</a>, Manager at <a href="https://github.com/SolexGames">SolexGames</a></p>
 
 <p align="center">🔒 Cyber Security,  ☁️ Networking Administration,  🖥️ Cyber Threat Intelligence  </p>
   
