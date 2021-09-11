@@ -6,6 +6,7 @@
 # BIO
 <p align="center">CEO at <a href="https://github.com/DeltaDevOp">DeltaSec</a>, Manager at <a href="https://github.com/SolexGames">SolexGames</a>
 
+# Cool things I am into:
 🔒 Cyber Security,  ☁️ Networking Administration,  🖥️ Cyber Threat Intelligence  </p>
   
 
