@@ -14,7 +14,7 @@
 <p><strong>Experience:</strong></p>
 
 <ul>
-  <li>Manager @ <a href="https://github.com/SolexGames">SolexGames</a></li>
+  <li>Manager @ <a href="https://github.com/ScalaGG">ScalaGG by GrowlyX</a></li>
   <li>Developer and a founder @ <a href="https://github.com/Misq-Development">Misq Development</a></li>
   <li>Ex-Developer & Sys Admin for <a href="https://github.com/Artenis-Development">Artemis Development</a></li>
 </ul>
