@@ -4,7 +4,7 @@
 <img align='right' src='https://raw.githubusercontent.com/ItzBunniYT/ItzBunniYT/main/assets/gifs/bunni1.gif' width='18%'>  
 
 # BIO
-<p align="center">CEO at <a href="https://github.com/DeltaDevOp">DeltaSec</a>, Manager at <a href="https://github.com/SolexGames">SolexGames</a>
+<p align="center">CEO at <a href="https://github.com/DeltaDevOp">DeltaSec</a>, Manager at <a href="https://github.com/ScalaaGG">ScalaGG</a>
 
 🔒 Cyber Security,  ☁️ Networking Administration,  🖥️ Cyber Threat Intelligence  </p>
   
@@ -16,7 +16,6 @@
 <ul>
   <li>Manager @ <a href="https://github.com/ScalaGG">ScalaGG by GrowlyX</a></li>
   <li>Developer and a founder @ <a href="https://github.com/Misq-Development">Misq Development</a></li>
-  <li>Ex-Developer & Sys Admin for <a href="https://github.com/Artenis-Development">Artemis Development</a></li>
 </ul>
 
 <p><strong>Starred Projects</strong><p>
