@@ -4,7 +4,7 @@
 <img align='right' src='https://raw.githubusercontent.com/ItzBunniYT/ItzBunniYT/main/assets/gifs/bunni1.gif' width='18%'>  
 
 # BIO
-<p align="center">CEO at <a href="https://github.com/DeltaDevOp">DeltaSec</a>, Manager at <a href="https://github.com/ScalaaGG">ScalaGG</a>
+<p align="center">COO at <a href="https://github.com/RavenGuardDev">RavenGuard</a>, Manager at <a href="https://github.com/ScalaaGG">ScalaGG</a>
 
 🔒 Cyber Security,  ☁️ Networking Administration,  🖥️ Cyber Threat Intelligence  </p>
   
