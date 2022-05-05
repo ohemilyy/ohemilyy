@@ -16,6 +16,7 @@
 <ul>
   <li>Manager @ <a href="https://github.com/ScalaGG">ScalaGG by GrowlyX</a></li>
   <li>Developer and a founder @ <a href="https://github.com/Misq-Development">Misq Development</a></li>
+  <li>Cant be asked to list everything. Just look at my resume at https://bunni.me/ </li>
 </ul>
 
 <p><strong>Starred Projects</strong><p>
