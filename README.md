@@ -4,26 +4,24 @@
 <img align='right' src='https://raw.githubusercontent.com/ItzBunniYT/ItzBunniYT/main/assets/gifs/bunni1.gif' width='18%'>  
 
 # BIO
-<p align="center">COO at <a href="https://github.com/RavenGuardDev">RavenGuard</a>, Manager at <a href="https://github.com/ScalaaGG">ScalaGG</a>
+<p align="center">COO at <a href="https://github.com/hydrabank">HydraBank</a>
 
 🔒 Cyber Security,  ☁️ Networking Administration,  🖥️ Cyber Threat Intelligence  </p>
   
 
-<p align="center">Contact me on Discord: <b>qtEmilyy#2832</b></p>
+<p align="center">Contact me on Discord: <b>OhEmilyy#4180</b></p>
 
 <p><strong>Experience:</strong></p>
 
 <ul>
   <li>Manager @ <a href="https://github.com/ScalaGG">ScalaGG by GrowlyX</a></li>
-  <li>Developer and a founder @ <a href="https://github.com/Misq-Development">Misq Development</a></li>
-  <li>Cant be asked to list everything. Just look at my resume at https://bunni.me/ </li>
 </ul>
 
 <p><strong>Starred Projects</strong><p>
 <ul>
-  <li>My <a href="https://github.com/ItzBunniYT/website">website</a></li>
-  <li>My Discord Bot "<a href="https://github.com/ItzBunniYT/Cesium">Cesium</a>"</li>
-  <li>Some <a href="https://github.com/ItzBunniYT/GoodIPTables">Good IPtables</a> that I commonly use</li>
+  <li>My <a href="https://github.com/ohemilyy/website">website</a></li>
+  <li>My Discord Bot "<a href="https://github.com/ohemilyy/Cesium">Cesium</a>"</li>
+  <li>Some <a href="https://github.com/ohemilyy/GoodIPTables">Good IPtables</a> that I commonly use</li>
 </ul>
 
 <h2 align="center">Skills</h2>
