@@ -4,17 +4,17 @@
 <img align='right' src='https://raw.githubusercontent.com/ItzBunniYT/ItzBunniYT/main/assets/gifs/bunni1.gif' width='18%'>  
 
 # BIO
-<p align="center">COO at <a href="https://github.com/hydrabank">HydraBank</a>
+<p align="center">COO at <a href="https://github.com/hydrabank">HydraBank</a> 
 
 🔒 Cyber Security,  ☁️ Networking Administration,  🖥️ Cyber Threat Intelligence  </p>
   
 
-<p align="center">Contact me on Discord: <b>OhEmilyy#4180</b></p>
+<p align="center">Contact me on Discord: <b>ilyEmilyyy#4180</b></p>
 
 <p><strong>Experience:</strong></p>
 
 <ul>
-  <li>Manager @ <a href="https://github.com/ScalaGG">ScalaGG by GrowlyX</a></li>
+  <li>Working on <a href="https://github.com/Volteric">Volteric Cloud & Volteric Metal</a></li>
 </ul>
 
 <p><strong>Starred Projects</strong><p>
