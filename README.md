@@ -1,7 +1,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=55363475)
 ![](https://komarev.com/ghpvc/?username=itzbunniyt&color=blueviolet)
 <img align='left' src='https://raw.githubusercontent.com/ItzBunniYT/ItzBunniYT/main/assets/gifs/bunni1.gif' width='20%'>  
-[![Discord Presence](https://lanyard.cnrad.dev/api/869311033351749632)](https://discord.com/users/869311033351749632)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1057312650381504543)](https://discord.com/users/869311033351749632)
 
 # BIO
 <p align="center">COO at <a href="https://github.com/hydrabank">HydraBank</a> 
