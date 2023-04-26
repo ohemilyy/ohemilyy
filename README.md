@@ -9,7 +9,7 @@
                                       🔒 Cyber Security,  ☁️ Networking Administration,  🖥️ Cyber Threat Intelligence  
   
 
-<p align="center">Contact me on Discord: (HERE)[https://discord.com/users/1057312650381504543]</p>
+<p align="center">Contact me on Discord: [Emily](https://discord.com/users/1057312650381504543)</p>
 
 <p><strong>Experience:</strong></p>
 
