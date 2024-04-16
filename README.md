@@ -1,16 +1,16 @@
 <h2 align="center">👋 Hey  there</h2>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=egirldevs&color=blueviolet"/> 
+    <img src="https://komarev.com/ghpvc/?username=ohemilyy&color=blueviolet"/> 
 </p>
 
 <hr/>
 
-<img align='right' src='https://raw.githubusercontent.com/koreanrizz/koreanrizz/main/assets/gifs/bunni1.gif' width='25%'>  
+<img align='right' src='https://raw.githubusercontent.com/ohemilyy/ohemilyy/main/assets/gifs/bunni1.gif' width='25%'>  
 
 {  
 
-* 👂 `My name is`: **Emily**,
+* 👂 `My name is`: **Luna**,
 * 👩 `Pronouns`: **She/Her**,
 * ⚡ `I'm`: **22 years old**,
 * 🌱 `I’m currently learning`: **Rust and Kotlin**,
@@ -23,19 +23,19 @@
 <h2 align="center">☕ Statistics</h2>
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=koreanrizz&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=koreanrizz&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=koreanrizz&theme=material-palenight&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ohemilyy&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ohemilyy&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=ohemilyy&theme=material-palenight&hide_border=true&background=FFFFFF00">
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=koreanrizz&theme=tokyonight"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ohemilyy&theme=tokyonight"/>
 </p>
 
 <h2 align="center">🚀 Projects</h2>
 <p align="center">Take a look at my most outstanding projects.</p>
   
-| <a href="https://github.com/egirldevs/website" target="_blank">**My Website**</a> | <a href="https://github.com/m/refinedevelopment" target="_blank">**Refine Development**</a> | <a href="https://github.com/HydraBank" target="_blank">**HydraBank**</a> | <a href="https://github.com/volteric" target="_blank">**Volteric Cloud**</a> |
+| <a href="https://github.com/ohemilyy/website" target="_blank">**My Website**</a> | <a href="https://github.com/m/refinedevelopment" target="_blank">**Refine Development**</a> | <a href="https://github.com/HydraBank" target="_blank">**HydraBank**</a> | <a href="https://github.com/volteric" target="_blank">**Volteric Cloud**</a> |
 | :---: | :---: | :---: | :---: |
 <img align='center' src='https://pbs.twimg.com/profile_images/1647461994872668161/ReTcd1MR_400x400.jpg' width="100px"  height='100px'> | <img align='center' width="100px" src='https://avatars.githubusercontent.com/u/80261437?s=200&v=4' height='100px'>  | <img align='center' src='https://avatars.githubusercontent.com/u/92005377?s=200&v=4' width="100px" height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/109039982?s=200&v=4' width="100px" height='100px'> |
 | <p>BunniSite</p> <a href="https://github.com/egirldevs/website" target="_blank">`Repository`</a> | <p>Minecraft Development Team I work for.</p> <a href="https://github.com/m/refinedevelopment" target="_blank">`Repository`</a> <a href="https://discord.gg/5zeHXrEfC9" target="_blank">`Discord`</a> | <p>Development Team I Co-Own with a Friend.</p> <a href="https://github.com/hydrabank/" target="_blank">`Repository`</a> <a href="https://www.hydrabank.systems/" target="_blank">Website</a> | <p>Company that offers Bare Metal & Cloud Services</p> <a href="https://volteric.com" target="_blank">`Website`</a> |
