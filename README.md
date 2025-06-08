@@ -188,7 +188,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&height=100&lines=Thanks+for+visiting!+%F0%9F%92%96;Let's+connect+and+create+something+amazing!+%F0%9F%9A%80;Have+a+great+day!+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%92%96;Have+a+great+day!+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <div align="center">
