@@ -1,196 +1,97 @@
-# <div align="center">✨ Luna ✨</div>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg">
+  <img src="assets/hero.svg" width="100%" alt="Luna, UI/UX designer and fullstack engineer. I design interfaces, animate them, and build the backends and Linux infrastructure they run on. she/her, based in Raleigh-Durham, NC.">
+</picture>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Luna!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Rust+%26+TypeScript+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
+### About me
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ohemilyy/ohemilyy/main/assets/gifs/bunni1.gif" width="200px" alt="Bunni"/>
-</div>
+Trans girl, lifelong IT obsessive, and space nerd. I have been in Minecraft since it launched and turned it into a career, building server infrastructure since the early 2020s. My background is Linux infrastructure, distributed systems, and DevOps, and I design and animate the interfaces that sit on top of it. Right now I'm COO at Sona Interactive, the studio behind Clover Client, where I also own the backend and REST API.
 
-<div align="center">
-  <a href="https://github.com/ohemilyy?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ohemilyy?color=9D4EDD&labelColor=9D4EDD&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ohemilyy?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ohemilyy?color=9D4EDD&style=for-the-badge&labelColor=9D4EDD&logo=star"/>
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=ohemilyy&color=9D4EDD&style=for-the-badge">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=ohemilyy&color=9D4EDD&style=for-the-badge"/>
-  </a>
-</div>
+### What I do
 
----
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/disciplines-mobile.svg">
+  <img src="assets/disciplines.svg" width="100%" alt="Interface design: product flows and design systems on a strict 8pt grid, shown as a card component with spacing specs and a cursor pressing its button. Fullstack engineering: services and APIs in Go, Rust, TypeScript, and Kotlin, shown as a request traveling from web to api to db and back. Motion: UI transitions and motion graphics in CSS, GSAP, and Blender, shown as an easing curve with a dot tracing it and a block moving in sync.">
+</picture>
 
-### <div align="center">🎯 Quick Facts</div>
+### Selected work
 
-<div align="center">
-  
-  ```rust
-  struct Luna {
-      pronouns: &'static str = "she/her";
-      location: &'static str = "Digital Space";
-      role: &'static str = "Fullstack Developer";
-      interests: Vec<&'static str> = vec![
-          "Rust",
-          "TypeScript",
-          "Kotlin",
-          "Web Development",
-          "UI/UX Design",
-          "Security"
-      ];
-      current_focus: &'static str = "Building awesome things!";
-  }
-  ```
-  
-</div>
+<table>
+<tr>
+<td>
+<a href="https://universe.lunarlabs.dev"><img src="assets/work/universe.gif" width="100%" alt="Screen capture of universe.lunarlabs.dev, an editor-style site for Universe, scrolling from the README to stack.txt, features.yaml, and a cluster topology diagram."></a>
+<p><b>Universe</b><br><sub>Author, open source under Apache-2.0</sub></p>
+<p>Single-JAR game server orchestrator and my flagship open-source project. Designed pluggable runtimes deploying identical config to screen, tmux, Docker, or Kubernetes via self-registering extensions.</p>
+<p><a href="https://universe.lunarlabs.dev">universe.lunarlabs.dev</a> &nbsp;&nbsp; <a href="https://github.com/universeclouddev/Universe">Source on GitHub</a></p>
+</td>
+</tr>
+</table>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://cloverclient.com"><img src="assets/work/clover.gif" width="100%" alt="Screen capture of cloverclient.com scrolling from the hero to the Play better, together section, which shows the Clover Client party and chat interface."></a>
+<p><b>Clover Client</b><br><sub>Software engineer since Feb 2026</sub></p>
+<p>Own the backend and REST API for a cross-platform Minecraft client (Windows, macOS, Linux) through private beta launch.</p>
+<p><a href="https://cloverclient.com">cloverclient.com</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://sona.gg"><img src="assets/work/sona.gif" width="100%" alt="Screen capture of sona.gg scrolling from the Engineering pro-level competitive tools headline to the Clover Client and Offstage cards."></a>
+<p><b>Sona Interactive</b><br><sub>COO since Aug 2026</sub></p>
+<p>The studio behind Clover Client. Promoted to COO after six months; set engineering direction, run release and bug-triage processes, and align technical priorities with the beta roadmap.</p>
+<p><a href="https://sona.gg">sona.gg</a></p>
+</td>
+</tr>
+</table>
 
-### <div align="center">⚡ Tech Arsenal</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://reloop.sh"><img src="assets/work/reloop.gif" width="100%" alt="Screen capture of reloop.sh in dark mode scrolling from the Email Infrastructure for Developers hero to the dashboard's domain verification screen."></a>
+<p><b>Reloop</b><br><sub>Software engineer, backend, since Aug 2026</sub></p>
+<p>Open-source transactional email platform, multi-tenant and built around low send latency.</p>
+<p><a href="https://reloop.sh">reloop.sh</a> &nbsp;&nbsp; <a href="https://github.com/reloop-labs/reloop">Source on GitHub</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://lunarlabs.dev"><img src="assets/work/lunarlabs.gif" width="100%" alt="Screen capture of lunarlabs.dev switching between website concepts for trades, a cafe, a dentist, a gym, and venues."></a>
+<p><b>LunarLabs and Scala Studios</b><br><sub>Founder and COO since 2023</sub></p>
+<p>Web development and infrastructure management for small businesses. LunarLabs owns Scala Studios, its Minecraft engineering division.</p>
+<p><a href="https://lunarlabs.dev">lunarlabs.dev</a> &nbsp;&nbsp; <a href="https://scala.gg">scala.gg</a> &nbsp;&nbsp; <a href="https://github.com/scalagg">Scala Studios on GitHub</a></p>
+</td>
+</tr>
+</table>
 
-<div align="center">
-  
-  #### 🛠️ Languages & Tools
-  
-  <a href="https://www.rust-lang.org/">
-    <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white&labelColor=000000" alt="Rust"/>
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=3178C6" alt="TypeScript"/>
-  </a>
-  <a href="https://kotlinlang.org/">
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white&labelColor=7F52FF" alt="Kotlin"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript"/>
-  </a>
-  <a href="https://nodejs.org/">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=339933" alt="Node.js"/>
-  </a>
-  <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=61DAFB" alt="React"/>
-  </a>
-  
-  #### 🗄️ Databases & Cloud
-  
-  <a href="https://www.mongodb.com/">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB"/>
-  </a>
-  <a href="https://redis.io/">
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=DC382D" alt="Redis"/>
-  </a>
-  <a href="https://aws.amazon.com/">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS"/>
-  </a>
-  <a href="https://www.cloudflare.com/">
-    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white&labelColor=F38020" alt="Cloudflare"/>
-  </a>
-  
-  #### 🛠️ Tools & Software
-  
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=007ACC" alt="VS Code"/>
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=F05032" alt="Git"/>
-  </a>
-  <a href="https://www.docker.com/">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=2496ED" alt="Docker"/>
-  </a>
-  <a href="https://ubuntu.com/">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white&labelColor=E95420" alt="Ubuntu"/>
-  </a>
-  
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://darkless.cloud"><img src="assets/work/darkless.gif" width="100%" alt="Clip from the Darkless showreel: animated prices for Minecraft, VPS, and dedicated servers, ending on a renewal price tag stamped Renewal = Signup."></a>
+<p><b>Darkless</b><br><sub>Director and lead DevOps since 2024</sub></p>
+<p>Cloud and bare metal services, plus hosting for bots and Minecraft servers.</p>
+<p><a href="https://darkless.cloud">darkless.cloud</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://www.lunarshell.dev"><img src="assets/work/lunarshell.gif" width="100%" alt="Screen capture of lunarshell.dev scrolling from the hero to a terminal showing the LunarShell message of the day."></a>
+<p><b>LunarShell</b><br><sub>Author, open source</sub></p>
+<p>Security-focused shell. Built a distributable shell environment for Linux servers: Starship prompt, system-metrics MOTD, and hardened SSH defaults.</p>
+<p><a href="https://www.lunarshell.dev">lunarshell.dev</a> &nbsp;&nbsp; <a href="https://github.com/ohemilyy/LunarShell">Source on GitHub</a></p>
+</td>
+</tr>
+</table>
 
----
+### Experience
 
-### <div align="center">📊 GitHub Stats</div>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/experience-mobile.svg">
+  <img src="assets/experience.svg" width="100%" alt="Experience. Now: COO, Sona Interactive LLC, since Aug 2026. Software engineer, backend, Reloop, since Aug 2026. Software engineer, backend and REST API, Clover Client, since Feb 2026. Director and lead DevOps, Darkless LTD, since 2024. Founder and COO, LunarLabs LLC and Scala Studios, since 2023. Earlier: Systems administrator, JasmeowSystems, 2023 to 2024. Developer, Refine Development, 2023 to 2024. Co-director and lead DevOps, MCCade Games, 2023 to 2024. Founder, PinkCloud Studios, 2023 to 2024. CSO and web developer, GetVCS, 2024.">
+</picture>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ohemilyy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=9D4EDD&icon_color=9D4EDD"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohemilyy&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=9D4EDD&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI"/>
-</div>
+### Stack
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ohemilyy&theme=tokyonight&hide_border=true&background=FFFFFF00&stroke=9D4EDD&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD"/>
-</div>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/stack-mobile.svg">
+  <img src="assets/stack.svg" width="100%" alt="Languages: Go, Rust, TypeScript, Kotlin, Java, Python. Interface: Figma, React, Next.js. Backend: Node.js, Ktor, PostgreSQL, MongoDB, Redis, Supabase. Infrastructure: Linux, Docker, Kubernetes, Terraform, Cloudflare, AWS. Motion: Blender, HyperFrames, GSAP, CSS and SVG animation.">
+</picture>
 
----
+### Contact
 
-### <div align="center">🌟 Featured Projects</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/ohemilyy/LunarShell">
-          <img src="https://avatars.githubusercontent.com/u/55363475?v=4" width="100px" alt="LunarShell"/>
-          <br/>
-          <b>LunarShell</b>
-        </a>
-        <br/>
-        <sub>✨ Security Shell</sub>
-      </td>
-      <td align="center">
-        <a href="https://github.com/scalagg">
-          <img src="https://avatars.githubusercontent.com/u/85715026?s=200&v=4" width="100px" alt="Scala Studios"/>
-          <br/>
-          <b>Scala Studios</b>
-        </a>
-        <br/>
-        <sub>🎮 My Minecraft Development Company</sub>
-      </td>
-      <td align="center">
-        <a href="https://github.com/lunarlabsllc/">
-          <img src="https://avatars.githubusercontent.com/u/143658792?s=200&v=4" width="100px" alt="HydraBank"/>
-          <br/>
-          <b>LunarLabs LLC</b>
-        </a>
-        <br/>
-        <sub>💻 My Video Game Studio Company</sub>
-      </td>
-      <td align="center">
-        <a href="https://darkless.cloud">
-          <img src="https://avatars.githubusercontent.com/u/151262046?s=200&v=4" width="100px" alt="Volteric Cloud"/>
-          <br/>
-          <b>Darkless LTD</b>
-        </a>
-        <br/>
-        <sub>☁️ Cloud and Bare Metal Services</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### <div align="center">🏆 Achievements</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ohemilyy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&title=MultiLanguage,Stars,Commit,Followers&column=4"/>
-</div>
-
----
-
-### <div align="center">🤝 Connect With Me</div>
-
-<div align="center">
-  <a href="https://www.pawful.dev/contact">
-    <img src="https://img.shields.io/badge/Website-9D4EDD?style=for-the-badge&logo=github&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://discord.com/users/1057312650381504543">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%92%96;Have+a+great+day!+%E2%9C%A8" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D4EDD&height=100&section=footer"/>
-</div>
+[Portfolio and email](https://pawful.dev/#contact) &nbsp;&nbsp; [Discord](https://discord.com/users/1057312650381504543) &nbsp;&nbsp; [LunarLabs](https://lunarlabs.dev) &nbsp;&nbsp; [Resume (PDF)](https://pawful.dev/resume.pdf)
